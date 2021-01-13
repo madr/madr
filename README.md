@@ -6,6 +6,8 @@ Hi there 🤘🏿
 
 💬 Ask me about Progressive Enhancement, Accessibility, React or CSS. 
 
+I blog about web development, heavy metal and geek stuffs on https://madr.se in swedish.
+
 <!--
 **madr/madr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
