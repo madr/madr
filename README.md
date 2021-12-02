@@ -13,3 +13,4 @@ I wrote JavaScript before it was cool and have used Python with joy for a decade
 - I miss the old Instapaper so much, a minimalistic selfhosted link reading list would be so nice to have again!
 - I love Metalsmith, the pluggable static site generator, but not the Node.js leverage: what if it existed a port?
 - HTML-over-websockets are so cool, but will it really challenge the SPA paradigm?
+- When is a PWA the correct way to go?
