@@ -8,13 +8,13 @@ I wrote **JavaScript** before it was cool and have used **Python** with joy for 
 
 ## Namedropping Timeline
 
-1998–⁠2002: HTML, CSS1, frames, tablebased layouts, Netscape 4, IE 4-5, Flash, Shockwave.
-2002–2005: ⁠ASP classic, CSS2, MySQL, Ubuntu.
-2005–⁠2010: PHP, Semantic HTML, Progressive Enhancement, Graceful Degradation, Unobtrusive JavaScript, jQuery, Prototype.js, Gentoo, Ruby.
-2010–2015: Arch, Debian, CSS3, Python, Django, Flask, SilverStripe, Wordpress, ⁠Pligg, Responsive Web Design, Mobile first.
-⁠2015-2017: Vue, Angular
-2017-2021: React, Elastic Search, RabbitMQ, Mail parsing, Elixir, Phoenix, Webcomponents
-2021- Node.js, Next.js. 
+- 1998–⁠2002: HTML, CSS1, frames, tablebased layouts, Netscape 4, IE 4-5, Flash, Shockwave.
+- 2002–2005: ⁠ASP classic, CSS2, MySQL, Ubuntu.
+- 2005–⁠2010: PHP, Semantic HTML, Progressive Enhancement, Graceful Degradation, Unobtrusive JavaScript, jQuery, Prototype.js, Gentoo, Ruby.
+- 2010–2015: Arch, Debian, CSS3, Python, Django, Flask, SilverStripe, Wordpress, ⁠Pligg, Responsive Web Design, Mobile first.
+⁠- 2015-2017: Vue, Angular
+- 2017-2021: React, Elastic Search, RabbitMQ, Mail parsing, Elixir, Phoenix, Webcomponents
+- 2021- Node.js, Next.js. 
 
 ## Current brain teasers
 
