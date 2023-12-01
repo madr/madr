@@ -2,7 +2,7 @@
 
     // That is "Hi! 🤘" in swedish
 
-I make web sites and currently works for [Stratsys](https://stratsys.se) as a Senior Frontend Architect. My passion is to solve problems with solutions that are accessible, inclusive and pleasant to use. I am always willing to learn new things, but I prefer to keep things simple and straight-forward without unnecessary clutter: I [embrace boring tech](https://mcfunley.com/choose-boring-technology).
+I make web sites and currently works for [Playmaker](https://playmaker.ai) as a Fullstack Developer. My passion is to solve problems with solutions that are accessible, inclusive and pleasant to use. I am always willing to learn new things, but I prefer to keep things simple and straight-forward without unnecessary clutter: I [embrace boring tech](https://mcfunley.com/choose-boring-technology).
 
 I wrote **JavaScript** before it was cool and have used **Python** with joy for a decade. Currently, I learn **Rust** and **Phoenix LiveView**. I also try to master **Elixir**.
 
