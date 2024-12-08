@@ -8,10 +8,14 @@ I wrote **JavaScript** before it was cool and have used **Python** with joy for 
 
 ## Current brain teasers
 
-- What makes a good time tracking system that does not suck?
-- I miss the old Instapaper so much, a minimalistic selfhosted link reading list would be so nice to have again!
-- I love Metalsmith, the pluggable static site generator, but not the Node.js leverage: what if it existed a port?
+- Are LLM/"AI" engineers the Flash developers of the 20's? 
 - HTML-over-websockets is so cool, but will it really challenge the SPA paradigm?
 - SSR React/Vue/Svelte, when to use instead of HTML-over-websockets? 
-- When is a PWA the correct way to go?
+
+### Paused brain teasers
+
 - Micro-frontend, extreme or just full monty?
+- When is a PWA the correct way to go?
+- I love Metalsmith, the pluggable static site generator, but not the Node.js leverage: what if it existed a port?
+- I miss the old Instapaper so much, a minimalistic selfhosted link reading list would be so nice to have again!
+- What makes a good time tracking system that does not suck?
